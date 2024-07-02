@@ -15,4 +15,4 @@ Heres the Diagram of how you should build this, if you want to build it:
 
 ![Circuit Diagram](https://github.com/CreBlaBo/Cookie-Clicker-on-Arduino/blob/main/How%20to%20connect.png)
 
-Then just Upload the [![Code]https://github.com/CreBlaBo/Cookie-Clicker-on-Arduino/blob/main/Cookie%20Clicker%20on%20Arduino.ino] and youre ready to go. make sure you have used the correct pins
+Then just Upload the [Code](https://github.com/CreBlaBo/Cookie-Clicker-on-Arduino/blob/main/Cookie%20Clicker%20on%20Arduino.ino) and youre ready to go. make sure you have used the correct pins
