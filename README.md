@@ -1,6 +1,8 @@
 # Cookie-Clicker-on-Arduino
 This is a simple Sketch that makes it possible to play a simplified version of Cookie Clicker on an Arduino using a few buttons and an LCD I2C display
 
+##Components and how to build:
+
 This entire project was build using the following components:
 - Arduino Mega
 - 4 Buttons
@@ -12,3 +14,5 @@ This entire project was build using the following components:
 Heres the Diagram of how you should build this, if you want to build it:
 
 ![Circuit Diagram](https://github.com/CreBlaBo/Cookie-Clicker-on-Arduino/blob/main/How%20to%20connect.png)
+
+Then just Upload the [![Code]https://github.com/CreBlaBo/Cookie-Clicker-on-Arduino/blob/main/Cookie%20Clicker%20on%20Arduino.ino] and youre ready to go. make sure you have used the correct pins
