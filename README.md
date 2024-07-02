@@ -21,4 +21,7 @@ Then just Upload the [Code](https://github.com/CreBlaBo/Cookie-Clicker-on-Arduin
 
 ## Copyright or sum like that
 
-I made this. (this includes the circuit diagram and the Code)
+I made this.
+Feel free to build it yourself and try it
+
+Credit is always apprechiated
