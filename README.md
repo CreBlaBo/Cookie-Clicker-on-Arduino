@@ -1,4 +1,4 @@
-# Cookie-Clicker-on-Arduino V1.0
+# Cookie-Clicker-on-Arduino V1.1
 This is a simple Sketch that makes it possible to play a simplified version of Cookie Clicker on an Arduino using a few buttons and an LCD I2C display
 
 ## Hardware and how to build:
